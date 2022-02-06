@@ -1,1 +1,1 @@
-holi
+print("holi")
